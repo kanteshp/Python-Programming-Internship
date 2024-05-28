@@ -1,0 +1,1914 @@
+[
+    {
+        "Location": "World",
+        "Population(1 July 2022)": "7,975,105,156",
+        "Population(1 July 2023)": "8,045,311,448",
+        "Change": "+0.88%",
+        "UN Continental Region[1]": "",
+        "UN Statistical Subregion[1]": ""
+    },
+    {
+        "Location": "India",
+        "Population(1 July 2022)": "1,417,173,173",
+        "Population(1 July 2023)": "1,428,627,663",
+        "Change": "+0.81%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Southern Asia"
+    },
+    {
+        "Location": "China[a]",
+        "Population(1 July 2022)": "1,425,887,337",
+        "Population(1 July 2023)": "1,425,671,352",
+        "Change": "\u22120.02%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Eastern Asia"
+    },
+    {
+        "Location": "United States",
+        "Population(1 July 2022)": "338,289,857",
+        "Population(1 July 2023)": "339,996,564",
+        "Change": "+0.50%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Northern America"
+    },
+    {
+        "Location": "Indonesia",
+        "Population(1 July 2022)": "275,501,339",
+        "Population(1 July 2023)": "277,534,123",
+        "Change": "+0.74%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "South-eastern Asia"
+    },
+    {
+        "Location": "Pakistan",
+        "Population(1 July 2022)": "235,824,862",
+        "Population(1 July 2023)": "240,485,658",
+        "Change": "+1.98%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Southern Asia"
+    },
+    {
+        "Location": "Nigeria",
+        "Population(1 July 2022)": "218,541,212",
+        "Population(1 July 2023)": "223,804,632",
+        "Change": "+2.41%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Western Africa"
+    },
+    {
+        "Location": "Brazil",
+        "Population(1 July 2022)": "215,313,498",
+        "Population(1 July 2023)": "216,422,446",
+        "Change": "+0.52%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "South America"
+    },
+    {
+        "Location": "Bangladesh",
+        "Population(1 July 2022)": "171,186,373",
+        "Population(1 July 2023)": "172,954,319",
+        "Change": "+1.03%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Southern Asia"
+    },
+    {
+        "Location": "Russia",
+        "Population(1 July 2022)": "144,713,314",
+        "Population(1 July 2023)": "144,444,359",
+        "Change": "\u22120.19%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Eastern Europe"
+    },
+    {
+        "Location": "Mexico",
+        "Population(1 July 2022)": "127,504,126",
+        "Population(1 July 2023)": "128,455,567",
+        "Change": "+0.75%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Central America"
+    },
+    {
+        "Location": "Ethiopia",
+        "Population(1 July 2022)": "123,379,925",
+        "Population(1 July 2023)": "126,527,060",
+        "Change": "+2.55%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Eastern Africa"
+    },
+    {
+        "Location": "Japan",
+        "Population(1 July 2022)": "123,951,692",
+        "Population(1 July 2023)": "123,294,513",
+        "Change": "\u22120.53%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Eastern Asia"
+    },
+    {
+        "Location": "Philippines",
+        "Population(1 July 2022)": "115,559,009",
+        "Population(1 July 2023)": "117,337,368",
+        "Change": "+1.54%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "South-eastern Asia"
+    },
+    {
+        "Location": "Egypt",
+        "Population(1 July 2022)": "110,990,103",
+        "Population(1 July 2023)": "112,716,599",
+        "Change": "+1.56%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Northern Africa"
+    },
+    {
+        "Location": "DR Congo",
+        "Population(1 July 2022)": "99,010,212",
+        "Population(1 July 2023)": "102,262,809",
+        "Change": "+3.29%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Middle Africa"
+    },
+    {
+        "Location": "Vietnam",
+        "Population(1 July 2022)": "98,186,856",
+        "Population(1 July 2023)": "98,858,950",
+        "Change": "+0.68%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "South-eastern Asia"
+    },
+    {
+        "Location": "Iran",
+        "Population(1 July 2022)": "88,550,570",
+        "Population(1 July 2023)": "89,172,767",
+        "Change": "+0.70%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Southern Asia"
+    },
+    {
+        "Location": "Turkey",
+        "Population(1 July 2022)": "85,341,241",
+        "Population(1 July 2023)": "85,816,199",
+        "Change": "+0.56%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Western Asia"
+    },
+    {
+        "Location": "Germany",
+        "Population(1 July 2022)": "83,369,843",
+        "Population(1 July 2023)": "83,294,633",
+        "Change": "\u22120.09%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Western Europe"
+    },
+    {
+        "Location": "Thailand",
+        "Population(1 July 2022)": "71,697,030",
+        "Population(1 July 2023)": "71,801,279",
+        "Change": "+0.15%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "South-eastern Asia"
+    },
+    {
+        "Location": "United Kingdom",
+        "Population(1 July 2022)": "67,508,936",
+        "Population(1 July 2023)": "67,736,802",
+        "Change": "+0.34%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Northern Europe"
+    },
+    {
+        "Location": "Tanzania[b]",
+        "Population(1 July 2022)": "65,497,748",
+        "Population(1 July 2023)": "67,438,106",
+        "Change": "+2.96%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Eastern Africa"
+    },
+    {
+        "Location": "France[c]",
+        "Population(1 July 2022)": "64,626,628",
+        "Population(1 July 2023)": "64,756,584",
+        "Change": "+0.20%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Western Europe"
+    },
+    {
+        "Location": "South Africa",
+        "Population(1 July 2022)": "59,893,886",
+        "Population(1 July 2023)": "60,414,495",
+        "Change": "+0.87%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Southern Africa"
+    },
+    {
+        "Location": "Italy",
+        "Population(1 July 2022)": "59,037,474",
+        "Population(1 July 2023)": "58,870,763",
+        "Change": "\u22120.28%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Southern Europe"
+    },
+    {
+        "Location": "Kenya",
+        "Population(1 July 2022)": "54,027,487",
+        "Population(1 July 2023)": "55,100,587",
+        "Change": "+1.99%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Eastern Africa"
+    },
+    {
+        "Location": "Myanmar",
+        "Population(1 July 2022)": "54,179,306",
+        "Population(1 July 2023)": "54,577,997",
+        "Change": "+0.74%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "South-eastern Asia"
+    },
+    {
+        "Location": "Colombia",
+        "Population(1 July 2022)": "51,874,024",
+        "Population(1 July 2023)": "52,085,168",
+        "Change": "+0.41%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "South America"
+    },
+    {
+        "Location": "South Korea",
+        "Population(1 July 2022)": "51,815,810",
+        "Population(1 July 2023)": "51,784,059",
+        "Change": "\u22120.06%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Eastern Asia"
+    },
+    {
+        "Location": "Uganda",
+        "Population(1 July 2022)": "47,249,585",
+        "Population(1 July 2023)": "48,582,334",
+        "Change": "+2.82%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Eastern Africa"
+    },
+    {
+        "Location": "Sudan",
+        "Population(1 July 2022)": "46,874,204",
+        "Population(1 July 2023)": "48,109,006",
+        "Change": "+2.63%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Northern Africa"
+    },
+    {
+        "Location": "Spain[d]",
+        "Population(1 July 2022)": "47,558,630",
+        "Population(1 July 2023)": "47,519,628",
+        "Change": "\u22120.08%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Southern Europe"
+    },
+    {
+        "Location": "Argentina",
+        "Population(1 July 2022)": "45,510,318",
+        "Population(1 July 2023)": "45,773,884",
+        "Change": "+0.58%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "South America"
+    },
+    {
+        "Location": "Algeria",
+        "Population(1 July 2022)": "44,903,225",
+        "Population(1 July 2023)": "45,606,481",
+        "Change": "+1.57%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Northern Africa"
+    },
+    {
+        "Location": "Iraq",
+        "Population(1 July 2022)": "44,496,122",
+        "Population(1 July 2023)": "45,504,560",
+        "Change": "+2.27%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Western Asia"
+    },
+    {
+        "Location": "Afghanistan",
+        "Population(1 July 2022)": "41,128,771",
+        "Population(1 July 2023)": "42,239,854",
+        "Change": "+2.70%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Southern Asia"
+    },
+    {
+        "Location": "Poland",
+        "Population(1 July 2022)": "39,857,146",
+        "Population(1 July 2023)": "41,026,068",
+        "Change": "+2.93%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Eastern Europe"
+    },
+    {
+        "Location": "Canada",
+        "Population(1 July 2022)": "38,454,327",
+        "Population(1 July 2023)": "38,781,292",
+        "Change": "+0.85%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Northern America"
+    },
+    {
+        "Location": "Morocco",
+        "Population(1 July 2022)": "37,457,971",
+        "Population(1 July 2023)": "37,840,044",
+        "Change": "+1.02%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Northern Africa"
+    },
+    {
+        "Location": "Saudi Arabia",
+        "Population(1 July 2022)": "36,408,820",
+        "Population(1 July 2023)": "36,947,025",
+        "Change": "+1.48%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Western Asia"
+    },
+    {
+        "Location": "Ukraine[e]",
+        "Population(1 July 2022)": "39,701,739",
+        "Population(1 July 2023)": "36,744,634",
+        "Change": "\u22127.45%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Eastern Europe"
+    },
+    {
+        "Location": "Angola",
+        "Population(1 July 2022)": "35,588,987",
+        "Population(1 July 2023)": "36,684,203",
+        "Change": "+3.08%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Middle Africa"
+    },
+    {
+        "Location": "Uzbekistan",
+        "Population(1 July 2022)": "34,627,653",
+        "Population(1 July 2023)": "35,163,944",
+        "Change": "+1.55%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Central Asia"
+    },
+    {
+        "Location": "Yemen",
+        "Population(1 July 2022)": "33,696,614",
+        "Population(1 July 2023)": "34,449,825",
+        "Change": "+2.24%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Western Asia"
+    },
+    {
+        "Location": "Peru",
+        "Population(1 July 2022)": "34,049,589",
+        "Population(1 July 2023)": "34,352,719",
+        "Change": "+0.89%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "South America"
+    },
+    {
+        "Location": "Malaysia",
+        "Population(1 July 2022)": "33,938,222",
+        "Population(1 July 2023)": "34,308,525",
+        "Change": "+1.09%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "South-eastern Asia"
+    },
+    {
+        "Location": "Ghana",
+        "Population(1 July 2022)": "33,475,870",
+        "Population(1 July 2023)": "34,121,985",
+        "Change": "+1.93%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Western Africa"
+    },
+    {
+        "Location": "Mozambique",
+        "Population(1 July 2022)": "32,969,519",
+        "Population(1 July 2023)": "33,897,354",
+        "Change": "+2.81%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Eastern Africa"
+    },
+    {
+        "Location": "Nepal",
+        "Population(1 July 2022)": "30,547,580",
+        "Population(1 July 2023)": "30,896,590",
+        "Change": "+1.14%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Southern Asia"
+    },
+    {
+        "Location": "Madagascar",
+        "Population(1 July 2022)": "29,611,714",
+        "Population(1 July 2023)": "30,325,732",
+        "Change": "+2.41%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Eastern Africa"
+    },
+    {
+        "Location": "Ivory Coast",
+        "Population(1 July 2022)": "28,160,543",
+        "Population(1 July 2023)": "28,873,034",
+        "Change": "+2.53%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Western Africa"
+    },
+    {
+        "Location": "Venezuela",
+        "Population(1 July 2022)": "28,301,696",
+        "Population(1 July 2023)": "28,838,499",
+        "Change": "+1.90%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "South America"
+    },
+    {
+        "Location": "Cameroon",
+        "Population(1 July 2022)": "27,914,537",
+        "Population(1 July 2023)": "28,647,293",
+        "Change": "+2.62%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Middle Africa"
+    },
+    {
+        "Location": "Niger",
+        "Population(1 July 2022)": "26,207,977",
+        "Population(1 July 2023)": "27,202,843",
+        "Change": "+3.80%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Western Africa"
+    },
+    {
+        "Location": "Australia[f]",
+        "Population(1 July 2022)": "26,177,414",
+        "Population(1 July 2023)": "26,439,112",
+        "Change": "+1.00%",
+        "UN Continental Region[1]": "Oceania",
+        "UN Statistical Subregion[1]": "Australia and New Zealand"
+    },
+    {
+        "Location": "North Korea",
+        "Population(1 July 2022)": "26,069,417",
+        "Population(1 July 2023)": "26,160,822",
+        "Change": "+0.35%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Eastern Asia"
+    },
+    {
+        "Location": "Taiwan[g]",
+        "Population(1 July 2022)": "23,893,395",
+        "Population(1 July 2023)": "23,923,277",
+        "Change": "+0.13%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Eastern Asia"
+    },
+    {
+        "Location": "Mali",
+        "Population(1 July 2022)": "22,593,591",
+        "Population(1 July 2023)": "23,293,699",
+        "Change": "+3.10%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Western Africa"
+    },
+    {
+        "Location": "Burkina Faso",
+        "Population(1 July 2022)": "22,673,762",
+        "Population(1 July 2023)": "23,251,485",
+        "Change": "+2.55%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Western Africa"
+    },
+    {
+        "Location": "Syria",
+        "Population(1 July 2022)": "22,125,249",
+        "Population(1 July 2023)": "23,227,014",
+        "Change": "+4.98%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Western Asia"
+    },
+    {
+        "Location": "Sri Lanka",
+        "Population(1 July 2022)": "21,832,143",
+        "Population(1 July 2023)": "21,893,579",
+        "Change": "+0.28%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Southern Asia"
+    },
+    {
+        "Location": "Malawi",
+        "Population(1 July 2022)": "20,405,317",
+        "Population(1 July 2023)": "20,931,751",
+        "Change": "+2.58%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Eastern Africa"
+    },
+    {
+        "Location": "Zambia",
+        "Population(1 July 2022)": "20,017,675",
+        "Population(1 July 2023)": "20,569,738",
+        "Change": "+2.76%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Eastern Africa"
+    },
+    {
+        "Location": "Romania",
+        "Population(1 July 2022)": "19,659,267",
+        "Population(1 July 2023)": "19,892,812",
+        "Change": "+1.19%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Eastern Europe"
+    },
+    {
+        "Location": "Chile",
+        "Population(1 July 2022)": "19,603,733",
+        "Population(1 July 2023)": "19,629,590",
+        "Change": "+0.13%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "South America"
+    },
+    {
+        "Location": "Kazakhstan",
+        "Population(1 July 2022)": "19,397,998",
+        "Population(1 July 2023)": "19,606,634",
+        "Change": "+1.08%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Central Asia"
+    },
+    {
+        "Location": "Chad",
+        "Population(1 July 2022)": "17,723,315",
+        "Population(1 July 2023)": "18,278,568",
+        "Change": "+3.13%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Middle Africa"
+    },
+    {
+        "Location": "Ecuador",
+        "Population(1 July 2022)": "18,001,000",
+        "Population(1 July 2023)": "18,190,484",
+        "Change": "+1.05%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "South America"
+    },
+    {
+        "Location": "Somalia[h]",
+        "Population(1 July 2022)": "17,597,511",
+        "Population(1 July 2023)": "18,143,379",
+        "Change": "+3.10%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Eastern Africa"
+    },
+    {
+        "Location": "Guatemala",
+        "Population(1 July 2022)": "17,843,908",
+        "Population(1 July 2023)": "18,092,026",
+        "Change": "+1.39%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Central America"
+    },
+    {
+        "Location": "Senegal",
+        "Population(1 July 2022)": "17,316,449",
+        "Population(1 July 2023)": "17,763,163",
+        "Change": "+2.58%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Western Africa"
+    },
+    {
+        "Location": "Netherlands[i]",
+        "Population(1 July 2022)": "17,564,014",
+        "Population(1 July 2023)": "17,618,299",
+        "Change": "+0.31%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Western Europe"
+    },
+    {
+        "Location": "Cambodia",
+        "Population(1 July 2022)": "16,767,842",
+        "Population(1 July 2023)": "16,944,826",
+        "Change": "+1.06%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "South-eastern Asia"
+    },
+    {
+        "Location": "Zimbabwe",
+        "Population(1 July 2022)": "16,320,537",
+        "Population(1 July 2023)": "16,665,409",
+        "Change": "+2.11%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Eastern Africa"
+    },
+    {
+        "Location": "Guinea",
+        "Population(1 July 2022)": "13,859,341",
+        "Population(1 July 2023)": "14,190,612",
+        "Change": "+2.39%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Western Africa"
+    },
+    {
+        "Location": "Rwanda",
+        "Population(1 July 2022)": "13,776,698",
+        "Population(1 July 2023)": "14,094,683",
+        "Change": "+2.31%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Eastern Africa"
+    },
+    {
+        "Location": "Benin",
+        "Population(1 July 2022)": "13,352,864",
+        "Population(1 July 2023)": "13,712,828",
+        "Change": "+2.70%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Western Africa"
+    },
+    {
+        "Location": "Burundi",
+        "Population(1 July 2022)": "12,889,577",
+        "Population(1 July 2023)": "13,238,559",
+        "Change": "+2.71%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Eastern Africa"
+    },
+    {
+        "Location": "Tunisia",
+        "Population(1 July 2022)": "12,356,117",
+        "Population(1 July 2023)": "12,458,223",
+        "Change": "+0.83%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Northern Africa"
+    },
+    {
+        "Location": "Bolivia",
+        "Population(1 July 2022)": "12,224,110",
+        "Population(1 July 2023)": "12,388,571",
+        "Change": "+1.35%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "South America"
+    },
+    {
+        "Location": "Haiti",
+        "Population(1 July 2022)": "11,584,996",
+        "Population(1 July 2023)": "11,724,764",
+        "Change": "+1.21%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "Belgium",
+        "Population(1 July 2022)": "11,655,930",
+        "Population(1 July 2023)": "11,686,140",
+        "Change": "+0.26%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Western Europe"
+    },
+    {
+        "Location": "Jordan",
+        "Population(1 July 2022)": "11,285,869",
+        "Population(1 July 2023)": "11,337,053",
+        "Change": "+0.45%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Western Asia"
+    },
+    {
+        "Location": "Dominican Republic",
+        "Population(1 July 2022)": "11,228,821",
+        "Population(1 July 2023)": "11,332,973",
+        "Change": "+0.93%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "Cuba",
+        "Population(1 July 2022)": "11,212,191",
+        "Population(1 July 2023)": "11,194,449",
+        "Change": "\u22120.16%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "South Sudan",
+        "Population(1 July 2022)": "10,913,164",
+        "Population(1 July 2023)": "11,088,796",
+        "Change": "+1.61%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Eastern Africa"
+    },
+    {
+        "Location": "Sweden",
+        "Population(1 July 2022)": "10,549,347",
+        "Population(1 July 2023)": "10,612,086",
+        "Change": "+0.59%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Northern Europe"
+    },
+    {
+        "Location": "Honduras",
+        "Population(1 July 2022)": "10,432,860",
+        "Population(1 July 2023)": "10,593,798",
+        "Change": "+1.54%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Central America"
+    },
+    {
+        "Location": "Czechia",
+        "Population(1 July 2022)": "10,493,986",
+        "Population(1 July 2023)": "10,495,295",
+        "Change": "+0.01%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Eastern Europe"
+    },
+    {
+        "Location": "Azerbaijan",
+        "Population(1 July 2022)": "10,358,074",
+        "Population(1 July 2023)": "10,412,652",
+        "Change": "+0.53%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Western Asia"
+    },
+    {
+        "Location": "Greece",
+        "Population(1 July 2022)": "10,384,971",
+        "Population(1 July 2023)": "10,341,277",
+        "Change": "\u22120.42%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Southern Europe"
+    },
+    {
+        "Location": "Papua New Guinea",
+        "Population(1 July 2022)": "10,142,619",
+        "Population(1 July 2023)": "10,329,931",
+        "Change": "+1.85%",
+        "UN Continental Region[1]": "Oceania",
+        "UN Statistical Subregion[1]": "Melanesia"
+    },
+    {
+        "Location": "Portugal[j]",
+        "Population(1 July 2022)": "10,270,865",
+        "Population(1 July 2023)": "10,247,605",
+        "Change": "\u22120.23%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Southern Europe"
+    },
+    {
+        "Location": "Tajikistan",
+        "Population(1 July 2022)": "9,952,787",
+        "Population(1 July 2023)": "10,143,543",
+        "Change": "+1.92%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Central Asia"
+    },
+    {
+        "Location": "Hungary",
+        "Population(1 July 2022)": "9,967,308",
+        "Population(1 July 2023)": "9,604,000",
+        "Change": "\u22123.64%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Eastern Europe"
+    },
+    {
+        "Location": "United Arab Emirates",
+        "Population(1 July 2022)": "9,441,129",
+        "Population(1 July 2023)": "9,516,871",
+        "Change": "+0.80%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Western Asia"
+    },
+    {
+        "Location": "Belarus",
+        "Population(1 July 2022)": "9,534,955",
+        "Population(1 July 2023)": "9,498,238",
+        "Change": "\u22120.39%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Eastern Europe"
+    },
+    {
+        "Location": "Israel",
+        "Population(1 July 2022)": "9,038,309",
+        "Population(1 July 2023)": "9,174,520",
+        "Change": "+1.51%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Western Asia"
+    },
+    {
+        "Location": "Togo",
+        "Population(1 July 2022)": "8,848,699",
+        "Population(1 July 2023)": "9,053,799",
+        "Change": "+2.32%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Western Africa"
+    },
+    {
+        "Location": "Austria",
+        "Population(1 July 2022)": "8,939,617",
+        "Population(1 July 2023)": "8,958,961",
+        "Change": "+0.22%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Western Europe"
+    },
+    {
+        "Location": "Switzerland",
+        "Population(1 July 2022)": "8,740,472",
+        "Population(1 July 2023)": "8,796,669",
+        "Change": "+0.64%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Western Europe"
+    },
+    {
+        "Location": "Sierra Leone",
+        "Population(1 July 2022)": "8,605,718",
+        "Population(1 July 2023)": "8,791,092",
+        "Change": "+2.15%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Western Africa"
+    },
+    {
+        "Location": "Laos",
+        "Population(1 July 2022)": "7,529,475",
+        "Population(1 July 2023)": "7,633,779",
+        "Change": "+1.39%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "South-eastern Asia"
+    },
+    {
+        "Location": "Hong Kong (China)[k]",
+        "Population(1 July 2022)": "7,488,865",
+        "Population(1 July 2023)": "7,491,609",
+        "Change": "+0.04%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Eastern Asia"
+    },
+    {
+        "Location": "Serbia[l]",
+        "Population(1 July 2022)": "7,221,366",
+        "Population(1 July 2023)": "7,149,077",
+        "Change": "\u22121.00%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Southern Europe"
+    },
+    {
+        "Location": "Nicaragua",
+        "Population(1 July 2022)": "6,948,392",
+        "Population(1 July 2023)": "7,046,311",
+        "Change": "+1.41%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Central America"
+    },
+    {
+        "Location": "Libya",
+        "Population(1 July 2022)": "6,812,341",
+        "Population(1 July 2023)": "6,888,388",
+        "Change": "+1.12%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Northern Africa"
+    },
+    {
+        "Location": "Paraguay",
+        "Population(1 July 2022)": "6,780,744",
+        "Population(1 July 2023)": "6,861,524",
+        "Change": "+1.19%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "South America"
+    },
+    {
+        "Location": "Kyrgyzstan",
+        "Population(1 July 2022)": "6,630,623",
+        "Population(1 July 2023)": "6,735,348",
+        "Change": "+1.58%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Central Asia"
+    },
+    {
+        "Location": "Bulgaria",
+        "Population(1 July 2022)": "6,781,953",
+        "Population(1 July 2023)": "6,687,717",
+        "Change": "\u22121.39%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Eastern Europe"
+    },
+    {
+        "Location": "Turkmenistan",
+        "Population(1 July 2022)": "6,430,771",
+        "Population(1 July 2023)": "6,516,100",
+        "Change": "+1.33%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Central Asia"
+    },
+    {
+        "Location": "El Salvador",
+        "Population(1 July 2022)": "6,336,392",
+        "Population(1 July 2023)": "6,364,943",
+        "Change": "+0.45%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Central America"
+    },
+    {
+        "Location": "Congo",
+        "Population(1 July 2022)": "5,970,424",
+        "Population(1 July 2023)": "6,106,869",
+        "Change": "+2.29%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Middle Africa"
+    },
+    {
+        "Location": "Singapore",
+        "Population(1 July 2022)": "5,975,689",
+        "Population(1 July 2023)": "6,014,723",
+        "Change": "+0.65%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "South-eastern Asia"
+    },
+    {
+        "Location": "Denmark",
+        "Population(1 July 2022)": "5,882,262",
+        "Population(1 July 2023)": "5,910,913",
+        "Change": "+0.49%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Northern Europe"
+    },
+    {
+        "Location": "Slovakia",
+        "Population(1 July 2022)": "5,643,453",
+        "Population(1 July 2023)": "5,795,199",
+        "Change": "+2.69%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Eastern Europe"
+    },
+    {
+        "Location": "Central African Republic",
+        "Population(1 July 2022)": "5,579,144",
+        "Population(1 July 2023)": "5,742,316",
+        "Change": "+2.92%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Middle Africa"
+    },
+    {
+        "Location": "Finland[m]",
+        "Population(1 July 2022)": "5,540,746",
+        "Population(1 July 2023)": "5,545,475",
+        "Change": "+0.09%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Northern Europe"
+    },
+    {
+        "Location": "Norway[n]",
+        "Population(1 July 2022)": "5,434,319",
+        "Population(1 July 2023)": "5,474,360",
+        "Change": "+0.74%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Northern Europe"
+    },
+    {
+        "Location": "Liberia",
+        "Population(1 July 2022)": "5,302,681",
+        "Population(1 July 2023)": "5,418,377",
+        "Change": "+2.18%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Western Africa"
+    },
+    {
+        "Location": "Palestine[o]",
+        "Population(1 July 2022)": "5,250,072",
+        "Population(1 July 2023)": "5,371,230",
+        "Change": "+2.31%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Western Asia"
+    },
+    {
+        "Location": "Lebanon",
+        "Population(1 July 2022)": "5,489,740",
+        "Population(1 July 2023)": "5,353,930",
+        "Change": "\u22122.47%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Western Asia"
+    },
+    {
+        "Location": "New Zealand",
+        "Population(1 July 2022)": "5,185,289",
+        "Population(1 July 2023)": "5,228,100",
+        "Change": "+0.83%",
+        "UN Continental Region[1]": "Oceania",
+        "UN Statistical Subregion[1]": "Australia and New Zealand"
+    },
+    {
+        "Location": "Costa Rica",
+        "Population(1 July 2022)": "5,180,829",
+        "Population(1 July 2023)": "5,212,173",
+        "Change": "+0.60%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Central America"
+    },
+    {
+        "Location": "Ireland",
+        "Population(1 July 2022)": "5,023,109",
+        "Population(1 July 2023)": "5,056,935",
+        "Change": "+0.67%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Northern Europe"
+    },
+    {
+        "Location": "Mauritania",
+        "Population(1 July 2022)": "4,736,139",
+        "Population(1 July 2023)": "4,862,989",
+        "Change": "+2.68%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Western Africa"
+    },
+    {
+        "Location": "Oman",
+        "Population(1 July 2022)": "4,576,298",
+        "Population(1 July 2023)": "4,644,384",
+        "Change": "+1.49%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Western Asia"
+    },
+    {
+        "Location": "Panama",
+        "Population(1 July 2022)": "4,408,581",
+        "Population(1 July 2023)": "4,468,087",
+        "Change": "+1.35%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Central America"
+    },
+    {
+        "Location": "Kuwait",
+        "Population(1 July 2022)": "4,268,873",
+        "Population(1 July 2023)": "4,310,108",
+        "Change": "+0.97%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Western Asia"
+    },
+    {
+        "Location": "Croatia",
+        "Population(1 July 2022)": "4,030,358",
+        "Population(1 July 2023)": "4,008,617",
+        "Change": "\u22120.54%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Southern Europe"
+    },
+    {
+        "Location": "Eritrea",
+        "Population(1 July 2022)": "3,684,032",
+        "Population(1 July 2023)": "3,748,902",
+        "Change": "+1.76%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Eastern Africa"
+    },
+    {
+        "Location": "Georgia[p]",
+        "Population(1 July 2022)": "3,744,386",
+        "Population(1 July 2023)": "3,728,282",
+        "Change": "\u22120.43%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Western Asia"
+    },
+    {
+        "Location": "Mongolia",
+        "Population(1 July 2022)": "3,398,366",
+        "Population(1 July 2023)": "3,447,157",
+        "Change": "+1.44%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Eastern Asia"
+    },
+    {
+        "Location": "Moldova[q]",
+        "Population(1 July 2022)": "3,272,996",
+        "Population(1 July 2023)": "3,435,931",
+        "Change": "+4.98%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Eastern Europe"
+    },
+    {
+        "Location": "Uruguay",
+        "Population(1 July 2022)": "3,422,794",
+        "Population(1 July 2023)": "3,423,109",
+        "Change": "+0.01%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "South America"
+    },
+    {
+        "Location": "Puerto Rico (United States)",
+        "Population(1 July 2022)": "3,252,407",
+        "Population(1 July 2023)": "3,260,314",
+        "Change": "+0.24%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "Bosnia and Herzegovina",
+        "Population(1 July 2022)": "3,233,527",
+        "Population(1 July 2023)": "3,210,848",
+        "Change": "\u22120.70%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Southern Europe"
+    },
+    {
+        "Location": "Albania",
+        "Population(1 July 2022)": "2,842,321",
+        "Population(1 July 2023)": "2,832,439",
+        "Change": "\u22120.35%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Southern Europe"
+    },
+    {
+        "Location": "Jamaica",
+        "Population(1 July 2022)": "2,827,377",
+        "Population(1 July 2023)": "2,825,544",
+        "Change": "\u22120.06%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "Armenia",
+        "Population(1 July 2022)": "2,780,469",
+        "Population(1 July 2023)": "2,777,971",
+        "Change": "\u22120.09%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Western Asia"
+    },
+    {
+        "Location": "Gambia",
+        "Population(1 July 2022)": "2,705,992",
+        "Population(1 July 2023)": "2,773,168",
+        "Change": "+2.48%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Western Africa"
+    },
+    {
+        "Location": "Lithuania",
+        "Population(1 July 2022)": "2,750,055",
+        "Population(1 July 2023)": "2,718,352",
+        "Change": "\u22121.15%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Northern Europe"
+    },
+    {
+        "Location": "Qatar",
+        "Population(1 July 2022)": "2,695,122",
+        "Population(1 July 2023)": "2,716,391",
+        "Change": "+0.79%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Western Asia"
+    },
+    {
+        "Location": "Botswana",
+        "Population(1 July 2022)": "2,630,296",
+        "Population(1 July 2023)": "2,675,353",
+        "Change": "+1.71%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Southern Africa"
+    },
+    {
+        "Location": "Namibia",
+        "Population(1 July 2022)": "2,567,013",
+        "Population(1 July 2023)": "2,604,172",
+        "Change": "+1.45%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Southern Africa"
+    },
+    {
+        "Location": "Gabon",
+        "Population(1 July 2022)": "2,388,993",
+        "Population(1 July 2023)": "2,436,567",
+        "Change": "+1.99%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Middle Africa"
+    },
+    {
+        "Location": "Lesotho",
+        "Population(1 July 2022)": "2,305,826",
+        "Population(1 July 2023)": "2,330,318",
+        "Change": "+1.06%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Southern Africa"
+    },
+    {
+        "Location": "Guinea-Bissau",
+        "Population(1 July 2022)": "2,105,566",
+        "Population(1 July 2023)": "2,150,842",
+        "Change": "+2.15%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Western Africa"
+    },
+    {
+        "Location": "Slovenia",
+        "Population(1 July 2022)": "2,119,844",
+        "Population(1 July 2023)": "2,119,675",
+        "Change": "\u22120.01%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Southern Europe"
+    },
+    {
+        "Location": "North Macedonia",
+        "Population(1 July 2022)": "2,093,599",
+        "Population(1 July 2023)": "2,085,679",
+        "Change": "\u22120.38%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Southern Europe"
+    },
+    {
+        "Location": "Latvia",
+        "Population(1 July 2022)": "1,850,651",
+        "Population(1 July 2023)": "1,830,212",
+        "Change": "\u22121.10%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Northern Europe"
+    },
+    {
+        "Location": "Equatorial Guinea",
+        "Population(1 July 2022)": "1,674,908",
+        "Population(1 July 2023)": "1,714,672",
+        "Change": "+2.37%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Middle Africa"
+    },
+    {
+        "Location": "Kosovo[r]",
+        "Population(1 July 2022)": "1,659,714",
+        "Population(1 July 2023)": "1,663,595",
+        "Change": "+0.23%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Southern Europe"
+    },
+    {
+        "Location": "Trinidad and Tobago",
+        "Population(1 July 2022)": "1,531,045",
+        "Population(1 July 2023)": "1,534,937",
+        "Change": "+0.25%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "Bahrain",
+        "Population(1 July 2022)": "1,472,233",
+        "Population(1 July 2023)": "1,485,510",
+        "Change": "+0.90%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Western Asia"
+    },
+    {
+        "Location": "East Timor",
+        "Population(1 July 2022)": "1,341,296",
+        "Population(1 July 2023)": "1,360,596",
+        "Change": "+1.44%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "South-eastern Asia"
+    },
+    {
+        "Location": "Estonia",
+        "Population(1 July 2022)": "1,326,062",
+        "Population(1 July 2023)": "1,322,766",
+        "Change": "\u22120.25%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Northern Europe"
+    },
+    {
+        "Location": "Mauritius",
+        "Population(1 July 2022)": "1,299,469",
+        "Population(1 July 2023)": "1,300,557",
+        "Change": "+0.08%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Eastern Africa"
+    },
+    {
+        "Location": "Cyprus[s]",
+        "Population(1 July 2022)": "1,251,489",
+        "Population(1 July 2023)": "1,260,138",
+        "Change": "+0.69%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Western Asia"
+    },
+    {
+        "Location": "Eswatini",
+        "Population(1 July 2022)": "1,201,671",
+        "Population(1 July 2023)": "1,210,822",
+        "Change": "+0.76%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Southern Africa"
+    },
+    {
+        "Location": "Djibouti",
+        "Population(1 July 2022)": "1,120,849",
+        "Population(1 July 2023)": "1,136,455",
+        "Change": "+1.39%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Eastern Africa"
+    },
+    {
+        "Location": "R\u00e9union (France)",
+        "Population(1 July 2022)": "974,052",
+        "Population(1 July 2023)": "981,796",
+        "Change": "+0.80%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Eastern Africa"
+    },
+    {
+        "Location": "Fiji",
+        "Population(1 July 2022)": "929,766",
+        "Population(1 July 2023)": "936,376",
+        "Change": "+0.71%",
+        "UN Continental Region[1]": "Oceania",
+        "UN Statistical Subregion[1]": "Melanesia"
+    },
+    {
+        "Location": "Comoros",
+        "Population(1 July 2022)": "836,774",
+        "Population(1 July 2023)": "852,075",
+        "Change": "+1.83%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Eastern Africa"
+    },
+    {
+        "Location": "Guyana",
+        "Population(1 July 2022)": "808,726",
+        "Population(1 July 2023)": "813,834",
+        "Change": "+0.63%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "South America"
+    },
+    {
+        "Location": "Bhutan",
+        "Population(1 July 2022)": "782,455",
+        "Population(1 July 2023)": "787,425",
+        "Change": "+0.64%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Southern Asia"
+    },
+    {
+        "Location": "Solomon Islands",
+        "Population(1 July 2022)": "724,273",
+        "Population(1 July 2023)": "740,425",
+        "Change": "+2.23%",
+        "UN Continental Region[1]": "Oceania",
+        "UN Statistical Subregion[1]": "Melanesia"
+    },
+    {
+        "Location": "Macao (China)[t]",
+        "Population(1 July 2022)": "695,169",
+        "Population(1 July 2023)": "704,150",
+        "Change": "+1.29%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Eastern Asia"
+    },
+    {
+        "Location": "Luxembourg",
+        "Population(1 July 2022)": "647,599",
+        "Population(1 July 2023)": "654,768",
+        "Change": "+1.11%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Western Europe"
+    },
+    {
+        "Location": "Montenegro",
+        "Population(1 July 2022)": "627,083",
+        "Population(1 July 2023)": "626,485",
+        "Change": "\u22120.10%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Southern Europe"
+    },
+    {
+        "Location": "Suriname",
+        "Population(1 July 2022)": "618,041",
+        "Population(1 July 2023)": "623,237",
+        "Change": "+0.84%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "South America"
+    },
+    {
+        "Location": "Cape Verde",
+        "Population(1 July 2022)": "593,150",
+        "Population(1 July 2023)": "598,682",
+        "Change": "+0.93%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Western Africa"
+    },
+    {
+        "Location": "Western Sahara (disputed)[u]",
+        "Population(1 July 2022)": "575,986",
+        "Population(1 July 2023)": "587,259",
+        "Change": "+1.96%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Northern Africa"
+    },
+    {
+        "Location": "Malta",
+        "Population(1 July 2022)": "533,286",
+        "Population(1 July 2023)": "535,065",
+        "Change": "+0.33%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Southern Europe"
+    },
+    {
+        "Location": "Maldives",
+        "Population(1 July 2022)": "521,021",
+        "Population(1 July 2023)": "523,787",
+        "Change": "+0.53%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "Southern Asia"
+    },
+    {
+        "Location": "Brunei",
+        "Population(1 July 2022)": "449,002",
+        "Population(1 July 2023)": "452,524",
+        "Change": "+0.78%",
+        "UN Continental Region[1]": "Asia",
+        "UN Statistical Subregion[1]": "South-eastern Asia"
+    },
+    {
+        "Location": "Bahamas",
+        "Population(1 July 2022)": "409,984",
+        "Population(1 July 2023)": "412,624",
+        "Change": "+0.64%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "Belize",
+        "Population(1 July 2022)": "405,273",
+        "Population(1 July 2023)": "410,825",
+        "Change": "+1.37%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Central America"
+    },
+    {
+        "Location": "Guadeloupe (France)",
+        "Population(1 July 2022)": "395,753",
+        "Population(1 July 2023)": "395,839",
+        "Change": "+0.02%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "Iceland",
+        "Population(1 July 2022)": "372,899",
+        "Population(1 July 2023)": "375,319",
+        "Change": "+0.65%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Northern Europe"
+    },
+    {
+        "Location": "Martinique (France)",
+        "Population(1 July 2022)": "367,507",
+        "Population(1 July 2023)": "366,981",
+        "Change": "\u22120.14%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "Mayotte (France)",
+        "Population(1 July 2022)": "326,101",
+        "Population(1 July 2023)": "335,995",
+        "Change": "+3.03%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Eastern Africa"
+    },
+    {
+        "Location": "Vanuatu",
+        "Population(1 July 2022)": "326,741",
+        "Population(1 July 2023)": "334,506",
+        "Change": "+2.38%",
+        "UN Continental Region[1]": "Oceania",
+        "UN Statistical Subregion[1]": "Melanesia"
+    },
+    {
+        "Location": "French Guiana (France)",
+        "Population(1 July 2022)": "304,557",
+        "Population(1 July 2023)": "312,155",
+        "Change": "+2.49%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "South America"
+    },
+    {
+        "Location": "French Polynesia (France)",
+        "Population(1 July 2022)": "306,279",
+        "Population(1 July 2023)": "308,872",
+        "Change": "+0.85%",
+        "UN Continental Region[1]": "Oceania",
+        "UN Statistical Subregion[1]": "Polynesia"
+    },
+    {
+        "Location": "New Caledonia (France)",
+        "Population(1 July 2022)": "289,951",
+        "Population(1 July 2023)": "292,991",
+        "Change": "+1.05%",
+        "UN Continental Region[1]": "Oceania",
+        "UN Statistical Subregion[1]": "Melanesia"
+    },
+    {
+        "Location": "Barbados",
+        "Population(1 July 2022)": "281,635",
+        "Population(1 July 2023)": "281,996",
+        "Change": "+0.13%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "Population(1 July 2022)": "227,380",
+        "Population(1 July 2023)": "231,856",
+        "Change": "+1.97%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Middle Africa"
+    },
+    {
+        "Location": "Samoa",
+        "Population(1 July 2022)": "222,382",
+        "Population(1 July 2023)": "225,681",
+        "Change": "+1.48%",
+        "UN Continental Region[1]": "Oceania",
+        "UN Statistical Subregion[1]": "Polynesia"
+    },
+    {
+        "Location": "Cura\u00e7ao (Netherlands)",
+        "Population(1 July 2022)": "191,164",
+        "Population(1 July 2023)": "192,077",
+        "Change": "+0.48%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "Saint Lucia",
+        "Population(1 July 2022)": "179,858",
+        "Population(1 July 2023)": "180,251",
+        "Change": "+0.22%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "Guam (United States)",
+        "Population(1 July 2022)": "171,775",
+        "Population(1 July 2023)": "172,952",
+        "Change": "+0.69%",
+        "UN Continental Region[1]": "Oceania",
+        "UN Statistical Subregion[1]": "Micronesia"
+    },
+    {
+        "Location": "Kiribati",
+        "Population(1 July 2022)": "131,232",
+        "Population(1 July 2023)": "133,515",
+        "Change": "+1.74%",
+        "UN Continental Region[1]": "Oceania",
+        "UN Statistical Subregion[1]": "Micronesia"
+    },
+    {
+        "Location": "Grenada",
+        "Population(1 July 2022)": "125,438",
+        "Population(1 July 2023)": "126,184",
+        "Change": "+0.59%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "Micronesia",
+        "Population(1 July 2022)": "114,164",
+        "Population(1 July 2023)": "115,224",
+        "Change": "+0.93%",
+        "UN Continental Region[1]": "Oceania",
+        "UN Statistical Subregion[1]": "Micronesia"
+    },
+    {
+        "Location": "Jersey (United Kingdom)",
+        "Population(1 July 2022)": "110,779",
+        "Population(1 July 2023)": "111,803",
+        "Change": "+0.92%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Northern Europe"
+    },
+    {
+        "Location": "Tonga",
+        "Population(1 July 2022)": "106,858",
+        "Population(1 July 2023)": "107,773",
+        "Change": "+0.86%",
+        "UN Continental Region[1]": "Oceania",
+        "UN Statistical Subregion[1]": "Polynesia"
+    },
+    {
+        "Location": "Seychelles",
+        "Population(1 July 2022)": "107,119",
+        "Population(1 July 2023)": "107,660",
+        "Change": "+0.51%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Eastern Africa"
+    },
+    {
+        "Location": "Aruba (Netherlands)",
+        "Population(1 July 2022)": "106,445",
+        "Population(1 July 2023)": "106,277",
+        "Change": "\u22120.16%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "Saint Vincent and the Grenadines",
+        "Population(1 July 2022)": "103,948",
+        "Population(1 July 2023)": "103,699",
+        "Change": "\u22120.24%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "U.S. Virgin Islands (United States)",
+        "Population(1 July 2022)": "99,465",
+        "Population(1 July 2023)": "98,750",
+        "Change": "\u22120.72%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "Antigua and Barbuda",
+        "Population(1 July 2022)": "93,763",
+        "Population(1 July 2023)": "94,298",
+        "Change": "+0.57%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "Isle of Man (United Kingdom)",
+        "Population(1 July 2022)": "84,520",
+        "Population(1 July 2023)": "84,710",
+        "Change": "+0.22%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Northern Europe"
+    },
+    {
+        "Location": "Andorra",
+        "Population(1 July 2022)": "79,824",
+        "Population(1 July 2023)": "80,088",
+        "Change": "+0.33%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Southern Europe"
+    },
+    {
+        "Location": "Dominica",
+        "Population(1 July 2022)": "72,738",
+        "Population(1 July 2023)": "73,040",
+        "Change": "+0.42%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "Cayman Islands (United Kingdom)",
+        "Population(1 July 2022)": "68,706",
+        "Population(1 July 2023)": "69,310",
+        "Change": "+0.88%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "Bermuda (United Kingdom)",
+        "Population(1 July 2022)": "64,184",
+        "Population(1 July 2023)": "64,069",
+        "Change": "\u22120.18%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Northern America"
+    },
+    {
+        "Location": "Guernsey (United Kingdom)",
+        "Population(1 July 2022)": "63,302",
+        "Population(1 July 2023)": "63,544",
+        "Change": "+0.38%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Northern Europe"
+    },
+    {
+        "Location": "Greenland (Denmark)",
+        "Population(1 July 2022)": "56,466",
+        "Population(1 July 2023)": "56,643",
+        "Change": "+0.31%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Northern America"
+    },
+    {
+        "Location": "Faroe Islands (Denmark)",
+        "Population(1 July 2022)": "53,090",
+        "Population(1 July 2023)": "53,270",
+        "Change": "+0.34%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Northern Europe"
+    },
+    {
+        "Location": "Northern Mariana Islands (United States)",
+        "Population(1 July 2022)": "49,551",
+        "Population(1 July 2023)": "49,796",
+        "Change": "+0.49%",
+        "UN Continental Region[1]": "Oceania",
+        "UN Statistical Subregion[1]": "Micronesia"
+    },
+    {
+        "Location": "Saint Kitts and Nevis",
+        "Population(1 July 2022)": "47,658",
+        "Population(1 July 2023)": "47,755",
+        "Change": "+0.20%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "Turks and Caicos Islands (United Kingdom)",
+        "Population(1 July 2022)": "45,703",
+        "Population(1 July 2023)": "46,062",
+        "Change": "+0.79%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "Sint Maarten (Netherlands)",
+        "Population(1 July 2022)": "44,175",
+        "Population(1 July 2023)": "44,222",
+        "Change": "+0.11%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "American Samoa (United States)",
+        "Population(1 July 2022)": "44,273",
+        "Population(1 July 2023)": "43,915",
+        "Change": "\u22120.81%",
+        "UN Continental Region[1]": "Oceania",
+        "UN Statistical Subregion[1]": "Polynesia"
+    },
+    {
+        "Location": "Marshall Islands",
+        "Population(1 July 2022)": "41,569",
+        "Population(1 July 2023)": "41,996",
+        "Change": "+1.03%",
+        "UN Continental Region[1]": "Oceania",
+        "UN Statistical Subregion[1]": "Micronesia"
+    },
+    {
+        "Location": "Liechtenstein",
+        "Population(1 July 2022)": "39,327",
+        "Population(1 July 2023)": "39,585",
+        "Change": "+0.66%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Western Europe"
+    },
+    {
+        "Location": "Monaco",
+        "Population(1 July 2022)": "36,469",
+        "Population(1 July 2023)": "36,298",
+        "Change": "\u22120.47%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Western Europe"
+    },
+    {
+        "Location": "San Marino",
+        "Population(1 July 2022)": "33,661",
+        "Population(1 July 2023)": "33,642",
+        "Change": "\u22120.06%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Southern Europe"
+    },
+    {
+        "Location": "Gibraltar (United Kingdom)",
+        "Population(1 July 2022)": "32,649",
+        "Population(1 July 2023)": "32,688",
+        "Change": "+0.12%",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Southern Europe"
+    },
+    {
+        "Location": "Saint Martin (France)",
+        "Population(1 July 2022)": "31,791",
+        "Population(1 July 2023)": "32,077",
+        "Change": "+0.90%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "British Virgin Islands (United Kingdom)",
+        "Population(1 July 2022)": "31,305",
+        "Population(1 July 2023)": "31,538",
+        "Change": "+0.74%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "Caribbean Netherlands (Netherlands)[v]",
+        "Population(1 July 2022)": "27,027",
+        "Population(1 July 2023)": "27,148",
+        "Change": "+0.45%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "Palau",
+        "Population(1 July 2022)": "18,055",
+        "Population(1 July 2023)": "18,058",
+        "Change": "+0.02%",
+        "UN Continental Region[1]": "Oceania",
+        "UN Statistical Subregion[1]": "Micronesia"
+    },
+    {
+        "Location": "Cook Islands",
+        "Population(1 July 2022)": "17,011",
+        "Population(1 July 2023)": "17,044",
+        "Change": "+0.19%",
+        "UN Continental Region[1]": "Oceania",
+        "UN Statistical Subregion[1]": "Polynesia"
+    },
+    {
+        "Location": "Anguilla (United Kingdom)",
+        "Population(1 July 2022)": "15,857",
+        "Population(1 July 2023)": "15,900",
+        "Change": "+0.27%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "Nauru",
+        "Population(1 July 2022)": "12,668",
+        "Population(1 July 2023)": "12,780",
+        "Change": "+0.88%",
+        "UN Continental Region[1]": "Oceania",
+        "UN Statistical Subregion[1]": "Micronesia"
+    },
+    {
+        "Location": "Wallis and Futuna (France)",
+        "Population(1 July 2022)": "11,573",
+        "Population(1 July 2023)": "11,502",
+        "Change": "\u22120.61%",
+        "UN Continental Region[1]": "Oceania",
+        "UN Statistical Subregion[1]": "Polynesia"
+    },
+    {
+        "Location": "Tuvalu",
+        "Population(1 July 2022)": "11,312",
+        "Population(1 July 2023)": "11,396",
+        "Change": "+0.74%",
+        "UN Continental Region[1]": "Oceania",
+        "UN Statistical Subregion[1]": "Polynesia"
+    },
+    {
+        "Location": "Saint Barth\u00e9lemy (France)",
+        "Population(1 July 2022)": "10,967",
+        "Population(1 July 2023)": "10,994",
+        "Change": "+0.25%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "Saint Pierre and Miquelon (France)",
+        "Population(1 July 2022)": "5,862",
+        "Population(1 July 2023)": "5,840",
+        "Change": "\u22120.38%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Northern America"
+    },
+    {
+        "Location": "Saint Helena (United Kingdom)[w]",
+        "Population(1 July 2022)": "5,374",
+        "Population(1 July 2023)": "5,314",
+        "Change": "\u22121.12%",
+        "UN Continental Region[1]": "Africa",
+        "UN Statistical Subregion[1]": "Western Africa"
+    },
+    {
+        "Location": "Montserrat (United Kingdom)",
+        "Population(1 July 2022)": "4,390",
+        "Population(1 July 2023)": "4,387",
+        "Change": "\u22120.07%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "Caribbean"
+    },
+    {
+        "Location": "Falkland Islands (United Kingdom)",
+        "Population(1 July 2022)": "3,780",
+        "Population(1 July 2023)": "3,791",
+        "Change": "+0.29%",
+        "UN Continental Region[1]": "Americas",
+        "UN Statistical Subregion[1]": "South America"
+    },
+    {
+        "Location": "Niue",
+        "Population(1 July 2022)": "1,934",
+        "Population(1 July 2023)": "1,935",
+        "Change": "+0.05%",
+        "UN Continental Region[1]": "Oceania",
+        "UN Statistical Subregion[1]": "Polynesia"
+    },
+    {
+        "Location": "Tokelau (New Zealand)",
+        "Population(1 July 2022)": "1,871",
+        "Population(1 July 2023)": "1,893",
+        "Change": "+1.18%",
+        "UN Continental Region[1]": "Oceania",
+        "UN Statistical Subregion[1]": "Polynesia"
+    },
+    {
+        "Location": "Vatican City[x]",
+        "Population(1 July 2022)": "510",
+        "Population(1 July 2023)": "518",
+        "Change": "N/A",
+        "UN Continental Region[1]": "Europe",
+        "UN Statistical Subregion[1]": "Southern Europe"
+    },
+    {
+        "Location": "Pitcairn Islands (United Kingdom)",
+        "Population(1 July 2022)": "55",
+        "Population(1 July 2023)": "45",
+        "Change": "-18.1818%",
+        "UN Continental Region[1]": "Oceania",
+        "UN Statistical Subregion[1]": "Polynesia"
+    }
+]
